@@ -1,4 +1,4 @@
-[29/10/2026 19:34:40] Who am I? 20:24 19:34:
+
 # DualPulse DSU
 
 Boot switcher for Android DSU (Dynamic System Updates). Lets you boot into your installed GSI/DSU system using volume keys on startup or via the Magisk Action button.
